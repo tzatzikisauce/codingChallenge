@@ -1,4 +1,4 @@
 Suboptimal design choices:
 1. Syncing with 2 different text files.
 2. Reusing alot of code between buy and sell functions.
-3. Now allowing input to change files being used to store data.
+3. Not allowing input to change files being used to store data.
